@@ -1,0 +1,9 @@
+estudo-api/.vscode
+estudo-api/estudo-api/bin/
+estudo-api/estudo-api/obj/
+estudo-api/estudo-console/bin/
+estudo-api/estudo-console/obj/
+estudo-api/estudo-jwt/bin/
+estudo-api/estudo-jwt/obj/
+estudo-api/estudo-test/bin/
+estudo-api/estudo-test/obj/
