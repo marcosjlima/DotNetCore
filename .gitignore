@@ -9,3 +9,7 @@ estudo-api/estudo-test/bin/
 estudo-api/estudo-test/obj/
 estudo-api/estudo-web/bin/
 estudo-api/estudo-web/obj/
+csvlab/.vscode
+csvlab/BenchmarkDotNet.Artifacts
+csvlab/bin
+csvlab/obj
